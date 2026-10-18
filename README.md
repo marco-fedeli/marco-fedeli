@@ -23,6 +23,7 @@ Non sono un programmatore. Qui pubblico piccoli strumenti che realizzo con l'aiu
 |---|---|
 | [AudioSwitcher](https://github.com/marco-fedeli/AudioSwitcher) | Utility per Windows che cambia al volo il dispositivo audio |
 | [CalcolatriceDoppia](https://github.com/marco-fedeli/CalcolatriceDoppia) | Calcolatrice per Windows a due colonne: calcolo in corso e storico modificabile riga per riga |
+| [CatturaSchermo](https://github.com/marco-fedeli/CatturaSchermo) | Cattura lo schermo per Windows: evidenzia, numera, scrive e oscura, poi copia l'immagine dove vuoi |
 | [Clessidra](https://github.com/marco-fedeli/Clessidra) | Timer per Windows che aiuta a restare concentrati: countdown sullo schermo e un "ding" discreto alla fine |
 
 ## Contatti

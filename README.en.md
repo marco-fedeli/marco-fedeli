@@ -23,6 +23,7 @@ I'm not a programmer. Here I publish small tools I build with the help of AI to 
 |---|---|
 | [AudioSwitcher](https://github.com/marco-fedeli/AudioSwitcher) | Windows utility that switches the audio device on the fly |
 | [CalcolatriceDoppia](https://github.com/marco-fedeli/CalcolatriceDoppia) | Two-column Windows calculator: the current calculation and a history you can edit line by line |
+| [CatturaSchermo](https://github.com/marco-fedeli/CatturaSchermo) | Windows screen capture: highlight, number, write and blur, then copy the image anywhere |
 | [Clessidra](https://github.com/marco-fedeli/Clessidra) | Windows timer that helps you stay focused: on-screen countdown and a soft "ding" at the end |
 
 ## Contact
