@@ -21,7 +21,7 @@ Non sono un programmatore. Qui pubblico piccoli strumenti che realizzo con l'aiu
 
 | Progetto | Cosa fa |
 |---|---|
-| [AudioSwitcher](https://github.com/marco-fedeli/AudioSwitcher) | Utility per Windows che cambia al volo il dispositivo audio |
+| [AV Switcher](https://github.com/marco-fedeli/AVSwitcher) | Utility per Windows che cambia al volo dispositivo audio, volume e risoluzione dello schermo |
 | [CalcolatriceDoppia](https://github.com/marco-fedeli/CalcolatriceDoppia) | Calcolatrice per Windows a due colonne: calcolo in corso e storico modificabile riga per riga |
 | [CatturaSchermo](https://github.com/marco-fedeli/CatturaSchermo) | Cattura lo schermo per Windows: evidenzia, numera, scrive e oscura, poi copia l'immagine dove vuoi |
 | [Lavagnina](https://github.com/marco-fedeli/Lavagnina) | Lavagna per Windows per disegni a mano libera, offline e in un solo .exe (basata su Excalidraw) |

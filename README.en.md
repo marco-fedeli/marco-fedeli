@@ -21,7 +21,7 @@ I'm not a programmer. Here I publish small tools I build with the help of AI to 
 
 | Project | What it does |
 |---|---|
-| [AudioSwitcher](https://github.com/marco-fedeli/AudioSwitcher) | Windows utility that switches the audio device on the fly |
+| [AV Switcher](https://github.com/marco-fedeli/AVSwitcher) | Windows utility that quickly switches audio device, volume and screen resolution |
 | [CalcolatriceDoppia](https://github.com/marco-fedeli/CalcolatriceDoppia) | Two-column Windows calculator: the current calculation and a history you can edit line by line |
 | [CatturaSchermo](https://github.com/marco-fedeli/CatturaSchermo) | Windows screen capture: highlight, number, write and blur, then copy the image anywhere |
 | [Lavagnina](https://github.com/marco-fedeli/Lavagnina) | Freehand whiteboard for Windows, offline and in a single .exe (based on Excalidraw) |
